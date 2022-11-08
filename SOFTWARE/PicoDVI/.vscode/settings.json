@@ -1,0 +1,13 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/software",
+    "files.associations": {
+        "cstdio": "c",
+        "dvi_config_defs.h": "c",
+        "wikimedia_christmas_tree_in_field_320x240_rgb565.h": "c",
+        "dvi_timing.h": "c",
+        "common_dvi_pin_configs.h": "c",
+        "tmds_encode_1bpp.pio.h": "c",
+        "tmds_encode.h": "c",
+        "clocks.h": "c"
+    }
+}
