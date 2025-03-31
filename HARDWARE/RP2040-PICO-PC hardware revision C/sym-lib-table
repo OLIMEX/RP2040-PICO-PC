@@ -1,0 +1,3 @@
+(sym_lib_table
+ (lib (name RP2040-PICO-PC_rev_C)(type Legacy)(uri ${KIPRJMOD}/RP2040-PICO-PC_rev_C.lib)(options "")(descr ""))
+)
